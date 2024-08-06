@@ -1,0 +1,2 @@
+# nakama
+Create nakama server
